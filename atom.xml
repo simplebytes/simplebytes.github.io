@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[MediaBox]]></title>
+  <link href="http://mediabox.github.io/atom.xml" rel="self"/>
+  <link href="http://mediabox.github.io/"/>
+  <updated>2014-01-28T08:25:00-04:00</updated>
+  <id>http://mediabox.github.io/</id>
+  <author>
+    <name><![CDATA[Andrew Little]]></name>
+    
+  </author>
+
+  
+  <entry>
+    <title type="html"><![CDATA[5 Reasons our App is Free]]></title>
+    <link href="http://mediabox.github.io/blog/2014/01/28/why-is-mediabox-free/"/>
+    <updated>2014-01-28T09:00:03-04:00</updated>
+    <id>http://mediabox.github.io/blog/2014/01/28/why-is-mediabox-free</id>
+    <content type="html"><![CDATA[<p>Free. In-app. Ad-supported. Paid install. So many business models, but which one to choose?</p>
+
+<p>As we mentioned in a <a href="http://mediabox.github.io/blog/2014/01/15/building-a-side-project-team/">previous post</a>, our #1 goal wasn&rsquo;t about making money. I suppose we’d be silly to turn down an opportunity, but we didn’t want to have our product idea selection driven completely by dollar signs. This wasn’t out of some keen interest in copying Valley startups (i.e. no revenue can be good for early valuations), we just didn’t think our first project was the right place to start mounting pressure on the team.</p>
+
+<p><strong>Choose the model early</strong>. It was helpful that we knew we wanted to go free early in the product design process. You&rsquo;ll want to define your business model early in the product lifecycle, as the model you choose will influence the way you design and build the product. For example, a freemium app needs to be designed such that both the free and paid user have a rich experience with the application.</p>
+
+<p><strong>1. Free is so easy</strong>. Low expectations and high(er) customer reach. There are benefits to free. As a team, it makes things simple because there’s no real business to split up. We can work on the product without any real feel for who on the team has the most commitment, because there are no profits to share. It also ensures that we maximize the user base since there is no paywall before using the app. We really hope that a free app will enjoy high user growth and will be easier to market. This is great for us, because we’re more interested in the exposure from the app than in direct revenue. As a simple app experiement, MediaBox is the perfect place to work on the mechanics of building and launching an app, rather than focusing on how to extract financial value.</p>
+
+<p><strong>2. Free does not mean $0 revenue</strong>. Oh yeah, we do have a chance to earn, though our expectations are low. MediaBox offers customers the chance to buy their listed media on iTunes. This is a feature that can earn us affiliate revenue from iTunes to the tune of 5-7% on every dollar the user spends in iTunes/iBooks after linking from our app. None of us have ever experimented with affiliate programs before, so we’re pretty excited to see how this goes.</p>
+
+<p><strong>3. Why not Freemium: In-App Purchase?</strong> We did entertain the idea of having an in-app purchase revenue stream but decided against it. In MediaBox, you have a separate list for each media type: movies, tv, books and music. One option, would have been to restrict access to certain media types and have an in-app purchase for full media access. This might work, but we were concerned with how much it would degrade the user experience, and we didn’t believe that it would really drive that much revenue. Apple recommends that you should only consider going freemium if your app can provide great value to both free and paid users. We weren&rsquo;t sure this would be the case for a freemium MediaBox. Though the most popular revenue model at the moment, in-app just didn’t feel like a fit for our app.</p>
+
+<p><strong>4. Why not iAd?</strong> Thought we didn&rsquo;t discuss this at length, I still think iAd <em>might</em> work in an app like ours. Problem is that a non-trivial % of prospective users really hate ads, though I bet that number reduces with iAds because of their polish. Still, showing ads seemed like a pretty big risk to the product, and I have yet to read any good case studies on apps which have used iAds as an effective revenue stream. Something I’m keeping an eye on though, because I’d love to experiment with the Apple ad platform and see for myself.</p>
+
+<p><strong>5. Affiliate Revenue</strong>. We settled on affiliate revenue, though MediaBox lends itself quite nicely to this approach. With MediaBox, customers are keeping lists of media that they plan to read/listen/watch in the future. When the future arrives, they&rsquo;ll likely want to buy that media, and that&rsquo;s where MediaBox can help (and earn a little $). When a customer uses MediaBox to &lsquo;buy&rsquo; their media from iTunes, Apple will pay us through their <a href="http://www.apple.com/itunes/affiliates/resources/">affiliate program</a>. <a href="http://david-smith.org/blog/2013/08/19/itunes-affiliate-linking/">In this article</a>, David Smith does a great job of explaining how the Affiliate program works. Currently, our account shows that we&rsquo;re pulling in 7% commisions through the affiliate program. Not bad.</p>
+
+<p>All of MediaBox is an experiment, and we really have little to lose. Affiliate revenue seemed like a great place to start because we didn’t have to sacrifice the user experience at all, and we get to learn something about the iTunes Affiliate Program. Win win.</p>
+
+<p>Next up: LAUNCH! (in two weeks)</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Customer-Driven Development]]></title>
+    <link href="http://mediabox.github.io/blog/2014/01/21/customer-driven-development/"/>
+    <updated>2014-01-21T09:00:40-04:00</updated>
+    <id>http://mediabox.github.io/blog/2014/01/21/customer-driven-development</id>
+    <content type="html"><![CDATA[<p>As mentioned in a <a href="http://mediabox.github.io/blog/2014/01/15/building-a-side-project-team/">previous post</a>, MediaBox is an experimentation platform for us. We use it to gain experience in areas of product design in which we haven&rsquo;t previously dabbled. One such area, is Customer Driven Development (CDD). To us, CDD means that we work closely with prospective customers of the product and collaborate toward a more finely tuned solution. They drive the vision of what we build.</p>
+
+<p><strong>It works!</strong> Turns out this approach was quite successful for a number of reasons.</p>
+
+<p><strong>Problem Spots</strong>. Customers helped us redefine the user interface by observing where they got stuck. There was nothing more valuable than seeing a pattern in which different people got hung up on the same issue. Often times, they’d even have common suggestions for how to fix it, making our job even easier.</p>
+
+<p><strong>Suggestions</strong>. Wow, just a flurry of great suggestions from every user we interviewed. Many of which we  included in the final product. Some were colour suggestions and other user interface refinements and many were fantastic feature requests. After just a few minutes with the app, users could immediately tell us what they felt was missing from the experience. Many more of these customer-driven ideas sit on the <a href="mediaboxapp.ca">MediaBox</a> backlog today, just waiting to be built.</p>
+
+<p><strong>Iterate with New and Experienced Customers</strong>. Each time we did a set of interviews, we’d iterate the product and then test again. Ensuring that problem spots were cleared up and the experience was improved. Adding new people to each iteration is a smart idea, because otherwise you run the risk of the previous users being biased by earlier versions of the app. Not a bad thing entirely, but you don’t get the truly critical feedback that you do from a fresh set of eyes. Next time, I think we&rsquo;d perform each beta test with a planned mix of new and experienced users. This will give us a nice blend of feedback that is representative of how App Store updates would be used in practice.</p>
+
+<p><strong>Built in advocates</strong>. Everyone you test with, provided you treat them well and listen to their feedback, will be built in advocates for your application (hopefully). Don&rsquo;t forget to reward them for their work, because they’re an important part of the team! We gave out $10 Starbucks gift cards to our beta testers&hellip; a little light on the reward side, but a little something to say thanks!</p>
+
+<p><strong>Who else practices Customer Driven Development?</strong> All of the triple-A mobile shops practice this sort of development approach. Facebook and Twitter do this, although a lot of their product feedback can be gathered at scale, which is even more powerful.</p>
+
+<p><span class='pullquote-right' data-pullquote='I believe the best product managers use a blend of instinct, team feedback, customer interviews and usage data, to drive each and every product decision.'>
+<strong>Why not Data Driven Development?</strong> I love driving product decisions based on data usage collected (via Google Analytics, for example). However, these early product stages don’t really offer that kind of analysis because of the small number of customers. Instead, talking to each customer one on one provides more valuable info to an early stage product. Later, we’ll use this technique alongside big&#8217;ish data to drive our important product decisions. I believe the best product managers use a blend of instinct, team feedback, customer interviews and usage data, to drive each and every product decision.
+</span></p>
+
+<p>After the experience with <a href="mediaboxapp.ca">MediaBox</a>, I’m completely sold on the value of customer driven development. The customer can’t always tell you exactly what to build, but they can often tell you what’s wrong with what you have so far. I recommend giving this a try. Talk to your customers, it’s never too late to get started.</p>
+
+<p>Next Week: &ldquo;Why is MediaBox free?&rdquo;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Building a Side Project Team]]></title>
+    <link href="http://mediabox.github.io/blog/2014/01/15/building-a-side-project-team/"/>
+    <updated>2014-01-15T09:00:00-04:00</updated>
+    <id>http://mediabox.github.io/blog/2014/01/15/building-a-side-project-team</id>
+    <content type="html"><![CDATA[<p>The toughest thing about a side project is finding the time to give it the attention your future customers deserve. That’s tricky enough when it’s just you, but when forming a team, the time constraint issue is amplified. How will we find time to meet? What if certain people can contribute more time than others? In the end, all of these concerns melt away if the goals of the project are made clear at the outset.</p>
+
+<p>Here, I’ll quickly walk you through our team building and how it all turned out as we near build completion on <a href="http://mediaboxapp.ca">MediaBox</a>.</p>
+
+<p><strong>Before we Started</strong>. Here are the ground rules that we set in the initial email that went out to prospective team members. Something of a project charter, if you will:</p>
+
+<ul>
+<li> Absolutely no formal time commitment.</li>
+<li> Favour building something that&rsquo;s fun for us, or does some societal good, over marketability.</li>
+<li> Keep it simple. Avoid the analysis paralysis that can accompany trying to come up with the &ldquo;next big thing&rdquo;.</li>
+<li> Something we can build a v1 of fairly quickly, but has potential for additional iterations/features.</li>
+<li> Majority rules on product decisions.</li>
+</ul>
+
+
+<p><strong>App/Team Fundamentals</strong>. As we set out to build the team, the first thing we thought about was who we wanted to work with and who would be most responsive to the idea of building a new app. We knew we wanted it to be an iPhone app, but didn’t really care if the team had deep iOS development talent. Our goal was to learn something new, so it didn’t matter how good we were at the craft. We were there to get better.</p>
+
+<p><span class='pullquote-right' data-pullquote='More than 10 would have been too difficult to coordinate and tough to fit on a small iOS project.'>
+<strong>Team Size</strong>. We wanted more than 2 and less than 10; anything in between would work. The goal was to have a team large enough to have a flow of creative ideas and be able to withstand having a few people drop off (more on that later). More than 10 would have been too difficult to coordinate and tough to fit on a small iOS project. Our goal was to have a team that could work closely together and share in all aspects of design, build, test and market. We settled on 5 people.
+</span></p>
+
+<p><strong>Collaboration Tools</strong>. Right away, we started collaborating on the Google apps suite: Calendar, Docs, Drive, Spreadsheet and Hangouts for some remote sessions. Product meetings were scheduled in Calendar and conducted in-person or over Hangouts. During the build phase, <a href="http://github.com">Github</a> was great for source control, and also for issue tracking (private repository, of course). We also used the issue tracker to manage the product features/scope that would define the various beta releases that we tested with prospective customers.</p>
+
+<p><strong>Initial Steps</strong>. After assembling the team, the first thing we did was select a product idea. We’ll talk about product selection in a future post, but essentially we selected something we knew we could build successfully and something we felt would at least be useful to <strong>us</strong> &ndash; this meant we’d have at least 5 customers! After selecting the product idea, we completed a document that defined our product. What&rsquo;s really cool is that this document still describes our product accurately some 7 months later.</p>
+
+<p><strong>Team Size Now?</strong> As we round out development on <a href="http://mediaboxapp.ca">MediaBox</a>, 7 months have passed. We find ourselves down to two active team members. Although it would have been great to have everyone along for the ride, it just wasn&rsquo;t possible for everyone to commit enough time to feel that they’re helping the effort. Despite our app’s simple scope, there is still a lot of work that goes into a shipping product: design, customer testing, communication, development, testing, marketing, and landing site construction. It’s not easy to balance perfectly against professional and personal life, which is important to us. Though the team has slimmed over time, we do still feel great that our original product definition document still defines the product we&rsquo;ll soon be shipping (in 4 weeks!).</p>
+
+<p>Next Tuesday: &ldquo;Customer-Driven Development&rdquo;</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Making of an iPhone App]]></title>
+    <link href="http://mediabox.github.io/blog/2013/01/08/the-making-of-a-modest-iphone-app/"/>
+    <updated>2013-01-08T09:00:21-04:00</updated>
+    <id>http://mediabox.github.io/blog/2013/01/08/the-making-of-a-modest-iphone-app</id>
+    <content type="html"><![CDATA[<p>So with a <a href="http://www.theverge.com/2013/10/22/4866302/apple-announces-1-million-apps-in-the-app-store">million apps in the App Store</a>, it’s clear that a lot of people out there already know how to build an iPhone app. However, if you enjoy an inside look at product creation or you have an app idea and aren’t sure where to start, then this series of posts may be interesting to you.</p>
+
+<p><span class='pullquote-right' data-pullquote='The number one goal here is to share information from behind the scenes.'>
+In this post, and several more, we’ll cover many aspects of creating and launching an app for iOS. We’ll leave coding details to the reader, but we’ll cover the interesting macro bits like team building, idea creation, product definition, and marketing. On the <a href="http://mediaboxapp.ca">MediaBox</a> team, we’re learning as we go and want to share all of it with you. We&rsquo;ll talk openly about issues that we ran into, how much time and money we spent on the project, and share recommendations on tools and product development approaches. The number one goal here is to share information from behind the scenes.
+</span></p>
+
+<p>Below, is an early design concept that we created using a great wireframing tool called <a href="http://balsamiq.com/">Balsamiq</a>. See the rest of the very basic design concept <a href="https://projects.invisionapp.com/share/HAEGQ7UT#/screens/6997123?maintainScrollPosition=false">here</a>. When we launch, you&rsquo;ll see how far we deviated from these early concepts. Despite straying from the original sketches, they served as an important guideline and a few of the design concepts did stand the test of time.</p>
+
+<p><img class="center" src="http://mediabox.github.io/images/initialconcept.png" width="200" height="325" title="Initial MediaBox Design Concept" ></p>
+
+<p>Here are some project metrics I thought might be interesting. More to come!</p>
+
+<ul>
+<li> Team members at project start: <strong>5</strong></li>
+<li> Team members currently: <strong>2</strong></li>
+<li> Alpha testing group: <strong>6</strong></li>
+<li> Commits on Github: <strong>170</strong></li>
+<li> Month with most commits: <strong>June 2013 (44)</strong></li>
+<li> Project start date: <strong>March 2013</strong></li>
+<li> Elapsed time planning: <strong>2 months</strong></li>
+<li> Elapsed time development: <strong>7 months</strong></li>
+<li> Elapsed time to first alpha: <strong>5 months</strong></li>
+<li> Lines of code: <strong>3920</strong></li>
+<li> When we usually code: <strong>8-11PM</strong></li>
+<li> % team with iOS experience: <strong>50%</strong></li>
+<li> Business model: <strong>Affiliate Revenue</strong></li>
+<li> Budget to date: <strong>$70</strong></li>
+<li> Launch date: <strong>soon</strong></li>
+</ul>
+
+
+<p>Be a part of our iOS app experiment and catch all of our free content as we march toward the launch date of <a href="http://mediaboxapp.ca">MediaBox</a>!</p>
+
+<p>Next Tuesday: &ldquo;Building a Side Project Team&rdquo;</p>
+]]></content>
+  </entry>
+  
+</feed>
