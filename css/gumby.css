@@ -267,7 +267,7 @@ a {
   line-height: inherit;
 }
 a:hover {
-  color: #c03d20;
+  color: #78D5D7;
 }
 
 /*=====================================================
@@ -8931,7 +8931,7 @@ input::-moz-focus-inner {
 * Site Header
 *****************************************************/
 .site-header {
-  background-color: #c43869;
+  background-color: #78D5D7;
   /** 
   * Add your custom background image for a cool parallax effect.
   * background-image:url('img/your-header-background-image.png')
@@ -8940,10 +8940,10 @@ input::-moz-focus-inner {
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  background-color: #3869c4;
+  background-color: #2081C3;
   width: 100%;
   color: #fff;
-  border-top: 5px solid #38C493;
+  border-top: 5px solid #78D5D7;
 }
 
 .logo {
@@ -8953,7 +8953,7 @@ input::-moz-focus-inner {
   color: #fff;
 }
 .logo span {
-  color: #3869c4;
+  color: #2081C3;
 }
 
 .appstore-logo {
@@ -9063,18 +9063,18 @@ input::-moz-focus-inner {
   -webkit-appearance: none;
 }
 .input-side:focus {
-  border-color: #3869c4;
+  border-color: #2081C3;
 }
 
 .btn-side {
   width: 25%;
   margin-left: -5px;
-  border: 5px solid #3869c4;
+  border: 5px solid #2081C3;
   font-size: 18px;
   text-transform: uppercase;
   color: #fff;
   font-weight: 600;
-  background-color: #3869c4;
+  background-color: #2081C3;
   -webkit-appearance: none;
   padding-left: 0;
   padding-right: 0;
@@ -9136,8 +9136,8 @@ input::-moz-focus-inner {
   }
 }
 .features-item:hover .features-circle {
-  background-color: #b83563;
-  border-color: #cc4e7a;
+  background-color: #2081C3;
+  border-color: #2081C3;
   border-width: 8px;
 }
 .features-item:hover .features-circle-icon {
@@ -9171,7 +9171,7 @@ input::-moz-focus-inner {
   display: block;
   position: relative;
   border-radius: 50%;
-  background-color: #c43869;
+  background-color: #78D5D7;
   width: 180px;
   height: 180px;
   margin: 0 auto 30px auto;
@@ -9313,7 +9313,7 @@ input::-moz-focus-inner {
 * Sign-Up Section
 *****************************************************/
 .section-signup {
-  background-color: #3869c4;
+  background-color: #2081C3;
   text-align: center;
 }
 
@@ -9346,15 +9346,15 @@ input::-moz-focus-inner {
 }
 .signup-form2 .btn-side {
   width: 30%;
-  background-color: #3869c4;;
+  background-color: #2081C3;;
   border: 5px solid #fff;
 }
 .signup-form2 .btn-side:hover {
-  border-color: #c43869;
-  background-color: #c43869;
+  border-color: #78D5D7;
+  background-color: #78D5D7;
 }
 .signup-form2 .btn-side:active {
-  border-color: #c43869;
+  border-color: #78D5D7;
   background-color: #a8305a;
 }
 @media screen and (max-width: 540px) {
@@ -9385,8 +9385,8 @@ input::-moz-focus-inner {
   border: 5px solid #fff;
 }
 .signup-form .btn-side:hover {
-  border-color: #c43869;
-  background-color: #c43869;
+  border-color: #78D5D7;
+  background-color: #78D5D7;
 }
 .signup-form .btn-side:active {
   border-color: #a8305a;
@@ -9403,7 +9403,7 @@ input::-moz-focus-inner {
 * Site Footer 
 *****************************************************/
 .site-footer {
-  background-color: #c49338;
+  background-color: #2081C3;
   padding: 50px 0;
 }
 .site-footer h1, .site-footer h2, .site-footer h3, .site-footer h4, .site-footer h5, .site-footer h6 {
@@ -9419,7 +9419,7 @@ input::-moz-focus-inner {
     font-size: 10px;
 }
 .footer-support:hover p{
-   color: #c43869;
+   color: #78D5D7;
 }
 .footer-copyright {
   font-weight: 300;
@@ -9492,7 +9492,7 @@ footer-support-link:hover {
 }
 
 .social-link {
-  color: #a47b2f;
+  color: #78D5D7;
   font-size: 45px;
   -webkit-transition: color 0.3s ease;
   -moz-transition: color 0.3s ease;
@@ -9500,7 +9500,7 @@ footer-support-link:hover {
   transition: color 0.3s ease;
 }
 .social-link:hover {
-  color: #9c2d54;
+  color: #BED8D4;
 }
 
 .social-engagement-wrapper {
