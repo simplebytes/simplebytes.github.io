@@ -9007,6 +9007,7 @@ input::-moz-focus-inner {
 .header-graphic-wrap {
   padding-right: 30px;
   padding-top: 60px;
+  padding-bottom: 50px;
 }
 @media screen and (max-width: 790px) and (min-width: 768px) {
   .header-graphic-wrap {
